@@ -1,3 +1,4 @@
+require 'docking_station.rb'
 require 'capybara/rspec'
 
 feature 'member of public acesses bike' do
