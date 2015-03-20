@@ -2,6 +2,9 @@ require_relative './bike'
 
 class DockingStation
   DEFAULT_CAPACITY = 20
+
+  attr_writer :capacity
+
   def initialize
     @bikes = []
   end
@@ -26,6 +29,6 @@ class DockingStation
   end
 
   def empty?
-    bikes.empty?
+    bikes.reject(&:broken?).length == 0
   end
 end
