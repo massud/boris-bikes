@@ -1,6 +1,6 @@
 :page_facing_up: Boris Bikes Tutorial :page_facing_up:
 ===========
-This is the first tutorial from week 1 at Makers Academy! It was also my first experience with pair-programming; I partnered with [Massud](https://github.com/massud).
+This is the first tutorial from week 1 at Makers Academy! It was also our first experience with pair-programming; This exercise was done by [Guillaume](https://github.com/GBouffard) and [Massud](https://github.com/massud).
 
 Boris Bikes is a Bike rental system in London, that allow users to rent and drop off bikes all over the city.
 
